@@ -1,1 +1,9 @@
-Replace this with a list of your favorite things.
+* Perl Data Structures
+- Array
+- Hash
+- Associative Array
+* Java Objects
+- String
+- Vector
+- Array List
+- Hash Table
