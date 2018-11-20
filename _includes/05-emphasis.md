@@ -1,0 +1,1 @@
+DevOps practices start with *GitHub*, **Jenkins** and a _combination_ there of. Together these are known as _Continuous Integration_ (__CI__), _Continuous Delivery_ (__CD__) and _Continuous Deployment_. 
